@@ -15,4 +15,16 @@ GoldHunt is an AI-powered grid-based game inspired by Wumpus World. The player u
 ---
 
 ## 📂 Project Structure
+/home/yourusername/MazeMind
+│
+├── app.py
+├── /static
+│   ├── script.js
+│   ├── style.css
+│   └── /images
+│       ├── player.png
+│       ├── gold.png
+│       └── etc.
+└── /templates
+    └── index.html
 
